@@ -56,8 +56,8 @@ setup(
         'streamlit-extras>=0.2.7',
         'streamlit-javascript>=0.1.5',  # for copy to clipboard functionality (in progress)
         'transformers>=4.10.0',
-        'typing-inspect==0.8.0',  # langchain with python < 3.9 fix
-        'typing_extensions==4.5.0',  # langchain with python < 3.9 fix
+        'typing-inspect>=0.8.0',
+        'typing_extensions>=4.5.0',
         'frozendict>=2.3.8',
         'munch>=3.0.0',
         'ipywidgets>=8.0.6',
